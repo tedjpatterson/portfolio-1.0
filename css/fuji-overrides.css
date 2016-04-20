@@ -1,0 +1,10 @@
+.highlight {
+	color: RGBA(38, 96, 107, 1);
+}
+
+.full-image .big-link-div {
+	background: RGBA(38, 96, 107, 1);
+}
+		.full-image .big-link-div:hover {
+			background: RGBA(15, 46, 51, 1);
+		}
