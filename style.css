@@ -393,8 +393,8 @@ html {
 }
 
 .left-img img{
-	width:100%;
-	margin:25px 0px 6% 0px;
+	width:90%;
+	margin:25px 0px 6% 65px;
 	}
 
 
@@ -409,9 +409,9 @@ html {
 	
 	
 	.full-image {
-		width:100%;
+		width:90%;
 		clear:both;
-		margin: 0px 0px 2.3% 0px;
+		margin: 0px 0px 2.3% 65px;
 	}
 	
 	.full-image .half-right {

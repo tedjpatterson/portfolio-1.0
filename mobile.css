@@ -5,6 +5,7 @@
 }
 
 .words p {
+	font-size: .8em;
 	line-height:1.58em;
 	margin: 0px 0px 15px 0px;
 }
@@ -16,7 +17,7 @@
 			}
 
 			#title h2{
-				font-size: .9em;
+				font-size: 1em;
 				padding-bottom: 1em;
 			}
 
@@ -67,7 +68,12 @@ nav ul li {
 .left-img, .left-img img {
 	width:100%;
 	margin-bottom:0px;
+	margin-left: 0px;
 }
+	.full-image {
+		margin-left: 0px;
+		width: 100%;
+	}
 
 	.full-image .half-right,.full-image .half-left  {
 		width:100%;
