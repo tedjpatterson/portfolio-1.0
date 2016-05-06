@@ -203,6 +203,17 @@ html {
 	width:95%;
 	}
 
+#index-title {
+	z-index:9834;
+	font-family:"Maison Neue Bold", Helvetica, Arial, Sans-Serif, sans-serif;
+	font-weight:bold;
+	padding-top:220px;
+	margin-bottom:-50px;
+	margin-left:5%;
+	line-height:3.6em;
+	width:95%;
+}
+
 #title h2 a {
 	color: #a8a8a8;
 	}
